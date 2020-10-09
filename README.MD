@@ -1,6 +1,6 @@
 # KeePass Secret Management Extension
 
-This is a modified version of Justin Grote's module [SecretManagement.Keepass](JustinGrote/SecretManagement.KeePass).
+This is a modified version of Justin Grote's module [JustinGrote/SecretManagement.KeePass](https://github.com/JustinGrote/SecretManagement.KeePass).
 
 ## Modifications
 - Set-Secret
